@@ -22,8 +22,3 @@ const App = () => {
 };
 
 export default App;
-
-
-
-// https://microfrontend-practice-swamiprasad.s3.us-east-1.amazonaws.com/marketing/latest/remoteEntry.js
-// httpS://microfrontend-practice-swamiprasad.s3-us-east-1.amazonaws.com/marketing/remoteEntry.js
