@@ -6,6 +6,7 @@ import Landing from './components/Landing';
 import Pricing from './components/Pricing';
 
 const App = () => {
+  console.log("Hi");
   return (
     <div>
       <StylesProvider>
