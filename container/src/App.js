@@ -14,8 +14,6 @@ const AuthLazy = lazy(() => import('./components/AuthApp'));;
 const App = () => {
   const [isSignedIn, setIsSignedIn] = useState(false);
 
-  console.log(isSignedIn);
-
   return (
     <StylesProvider generateClassName={generateClassName}>
       <BrowserRouter>
